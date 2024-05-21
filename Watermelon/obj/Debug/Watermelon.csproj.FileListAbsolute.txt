@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\Watermelon\bin\Debug\Watermelon.exe.config
+C:\Users\lucia\Desktop\CF\Watermelon\bin\Debug\Watermelon.exe
+C:\Users\lucia\Desktop\CF\Watermelon\bin\Debug\Watermelon.pdb
+C:\Users\lucia\Desktop\CF\Watermelon\obj\Debug\Watermelon.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\Watermelon\obj\Debug\Watermelon.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\Watermelon\obj\Debug\Watermelon.exe
+C:\Users\lucia\Desktop\CF\Watermelon\obj\Debug\Watermelon.pdb
