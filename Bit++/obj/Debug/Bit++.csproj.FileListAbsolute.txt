@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\Bit++\bin\Debug\Bit++.exe.config
+C:\Users\lucia\Desktop\CF\Bit++\bin\Debug\Bit++.exe
+C:\Users\lucia\Desktop\CF\Bit++\bin\Debug\Bit++.pdb
+C:\Users\lucia\Desktop\CF\Bit++\obj\Debug\Bit++.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\Bit++\obj\Debug\Bit++.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\Bit++\obj\Debug\Bit++.exe
+C:\Users\lucia\Desktop\CF\Bit++\obj\Debug\Bit++.pdb
