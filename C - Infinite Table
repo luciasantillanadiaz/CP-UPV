@@ -1,0 +1,42 @@
+#include <iostream>
+#define ll long long
+using namespace std;
+
+int main(){
+    ll t; cin >> t;
+    while(t--){
+        ll n; cin >> n;
+        ll it1=1,it2=1,x=1,Px=1,y=1,Py=1;
+        bool j=false;
+        while(x<=n){
+            x+=it1;
+            it1+=2;
+            Px++;
+        }
+        it1-=2;
+        x-=it1;
+        Px--;
+        //cout << "x: " << x << endl;
+        for(ll i=1;i<Px;i++){
+            if(x!=n){
+                Py++;
+                x++;
+            }else{
+                j=true;
+                break;
+            }
+        }
+        if(!j){
+            for(ll i=1;i<Py;i++){
+                if(x!=n){
+                    Px--;
+                    x++;
+                }else{
+                    break;
+                }
+            }
+
+        }
+        cout << Py << " " << Px << endl;
+    }
+}
