@@ -1,0 +1,4 @@
+﻿  Petya_and_Strings.cpp
+C:\Users\lucia\Desktop\CF\Petya_and_Strings\Petya_and_Strings.cpp(11,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lucia\Desktop\CF\Petya_and_Strings\Petya_and_Strings.cpp(16,23): warning C4018: '<': no coinciden signed/unsigned
+  Petya_and_Strings.vcxproj -> C:\Users\lucia\Desktop\CF\Petya_and_Strings\Debug\Petya_and_Strings.exe
