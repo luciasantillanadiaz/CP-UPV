@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\NextRound\bin\Debug\NextRound.exe.config
+C:\Users\lucia\Desktop\CF\NextRound\bin\Debug\NextRound.exe
+C:\Users\lucia\Desktop\CF\NextRound\bin\Debug\NextRound.pdb
+C:\Users\lucia\Desktop\CF\NextRound\obj\Debug\NextRound.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\NextRound\obj\Debug\NextRound.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\NextRound\obj\Debug\NextRound.exe
+C:\Users\lucia\Desktop\CF\NextRound\obj\Debug\NextRound.pdb
