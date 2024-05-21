@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\Sets_and_Union\bin\Debug\Sets_and_Union.exe.config
+C:\Users\lucia\Desktop\CF\Sets_and_Union\bin\Debug\Sets_and_Union.exe
+C:\Users\lucia\Desktop\CF\Sets_and_Union\bin\Debug\Sets_and_Union.pdb
+C:\Users\lucia\Desktop\CF\Sets_and_Union\obj\Debug\Sets_and_Union.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\Sets_and_Union\obj\Debug\Sets_and_Union.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\Sets_and_Union\obj\Debug\Sets_and_Union.exe
+C:\Users\lucia\Desktop\CF\Sets_and_Union\obj\Debug\Sets_and_Union.pdb
