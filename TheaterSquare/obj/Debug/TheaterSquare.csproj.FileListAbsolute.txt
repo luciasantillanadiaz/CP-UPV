@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\TheaterSquare\bin\Debug\TheaterSquare.exe.config
+C:\Users\lucia\Desktop\CF\TheaterSquare\bin\Debug\TheaterSquare.exe
+C:\Users\lucia\Desktop\CF\TheaterSquare\bin\Debug\TheaterSquare.pdb
+C:\Users\lucia\Desktop\CF\TheaterSquare\obj\Debug\TheaterSquare.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\TheaterSquare\obj\Debug\TheaterSquare.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\TheaterSquare\obj\Debug\TheaterSquare.exe
+C:\Users\lucia\Desktop\CF\TheaterSquare\obj\Debug\TheaterSquare.pdb
