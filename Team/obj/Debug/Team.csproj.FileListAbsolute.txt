@@ -1,0 +1,7 @@
+C:\Users\lucia\Desktop\CF\Team\bin\Debug\Team.exe.config
+C:\Users\lucia\Desktop\CF\Team\bin\Debug\Team.exe
+C:\Users\lucia\Desktop\CF\Team\bin\Debug\Team.pdb
+C:\Users\lucia\Desktop\CF\Team\obj\Debug\Team.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\CF\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\CF\Team\obj\Debug\Team.exe
+C:\Users\lucia\Desktop\CF\Team\obj\Debug\Team.pdb
