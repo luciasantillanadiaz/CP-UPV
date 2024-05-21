@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+#define ll long long
+using namespace std;
+
+int main(){
+    int t;
+    cin >> t;
+    while(t--){
+        ll n,expande=0,moves=0;
+        cin >> n;
+        expande = n/2;
+        for(ll i=1;i<=expande;i++){
+            moves += 8*i*i;
+        }
+        cout << moves << endl;
+    }
+}
