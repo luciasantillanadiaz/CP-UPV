@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int t; cin >> t;
+    while(t--){
+        int n; cin >> n;
+        long long sum = 0, maxP=0, minN=0, aux;
+        for(int i=0; i<n; i++){
+            cin >> aux;
+            if(aux < 0){
+                if(minN == 0)minN=-1000000000;
+                sum += maxP;//+3
+                maxP = 0;
+                if(minN < aux){
+                    minN = aux;
+                }
+            }
+            if(aux > 0){
+                sum += minN;
+                minN = 0;
+                if(maxP < aux){
+                    maxP = aux;
+                }
+            }
+        }
+        if(aux > 0) sum+=maxP;
+        else{sum+=minN;}
+        cout << sum << endl;
+    }
+}
