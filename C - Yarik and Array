@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define fastread() ios_base::sync_with_stdio(false);cin.tie(NULL);
+
+int main(){
+    fastread();
+    int t; cin >> t;
+    while(t--){
+        int n,aux; cin >> n;
+        vector<int> sum;
+        cin >> aux;
+        sum.push_back(aux);
+        sum.push_back(aux);
+        for(int i=2; i<n*2; ++i){
+            cin >> aux;
+            sum.push_back(aux);
+            if(abs(sum[i-2])%2 != abs(sum[i])%2){
+                sum.push_back(aux + max(sum[i-2],sum[i-1]));
+            }else{
+                sum.push_back(aux);
+            }
+            i++;
+        }
+        sort(sum.begin(),sum.end(),greater<int>());
+        cout << sum[0] << endl;
+    }
+}
